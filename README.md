@@ -10,6 +10,10 @@ This application allows users to track their fitness workout throughout the week
 
 Users can add either cardio or weight data to the application. The user can choose on the main page which type of excersise and then the data is entered into fields that are easy to understand.
 
+🙌🏻 DEPLOYED LINK 🙌🏻
+
+https://git.heroku.com/danofitnesstracker.git
+
 📛 Credits 📛
 
 This application was created by: 1. Dan Possehl
