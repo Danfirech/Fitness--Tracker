@@ -12,7 +12,7 @@ Users can add either cardio or weight data to the application. The user can choo
 
 🙌🏻 DEPLOYED LINK 🙌🏻
 
-https://git.heroku.com/danofitnesstracker.git
+https://danofitnesstracker.herokuapp.com/
 
 📛 Credits 📛
 
